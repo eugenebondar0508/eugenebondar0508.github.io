@@ -1,4 +1,4 @@
 # eugenebondar0508.github.io
 my homework.
-homework1:https://github.com/eugenebondar0508/homework1 .
-homework2:https://github.com/eugenebondar0508/homework2 .
+homework1:https://eugenebondar0508.github.io/homework1.1/  https://eugenebondar0508.github.io/homework1.2/ .
+homework2:https://eugenebondar0508.github.io/homework2.1/  https://eugenebondar0508.github.io/homework2.2/ .
