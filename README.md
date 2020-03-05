@@ -2,3 +2,4 @@
 my homework.
 homework1:https://eugenebondar0508.github.io/homework1.1/  https://eugenebondar0508.github.io/homework1.2/ .
 homework2:https://eugenebondar0508.github.io/homework2.1/  https://eugenebondar0508.github.io/homework2.2/ .
+homework3: https://eugenebondar0508.github.io/homework3simple/  https://eugenebondar0508.github.io/homework3.1/
