@@ -9,3 +9,5 @@ my homework.
 [homework5](https://eugenebondar0508.github.io/homeworkps/)
 [homework6task1](https://eugenebondar0508.github.io/homework6task1/)
 [homework6task2](https://eugenebondar0508.github.io/homework6task2/)
+[homework7part1](https://eugenebondar0508.github.io/homework7part1/)
+[homework7task2](https://eugenebondar0508.github.io/homework7part2/)
