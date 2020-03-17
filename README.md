@@ -11,3 +11,5 @@ my homework.
 [homework6task2](https://eugenebondar0508.github.io/homework6task2/)
 [homework7part1](https://eugenebondar0508.github.io/homework7part1/)
 [homework7task2](https://eugenebondar0508.github.io/homework7part2/)
+[homework8task1](https://eugenebondar0508.github.io/homework8part1/)
+[homework8task2](https://eugenebondar0508.github.io/homework8task2/)
