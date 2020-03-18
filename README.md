@@ -13,3 +13,6 @@ my homework.
 [homework7task2](https://eugenebondar0508.github.io/homework7part2/)
 [homework8task1](https://eugenebondar0508.github.io/homework8part1/)
 [homework8task2](https://eugenebondar0508.github.io/homework8task2/)
+[homework9task1](https://eugenebondar0508.github.io/homework9task1/)
+[homework9task2](https://eugenebondar0508.github.io/homework9task2/)
+[homework10task1](https://eugenebondar0508.github.io/homework10task1/)
